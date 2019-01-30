@@ -5,3 +5,6 @@ Started on my new Django app, this will replace an Excel registration sheet for 
 
 ### Day 1: January 29th, 2019
 Been fiddling around with setting up the database for my Django project, aim to use MySQL instead of SQLite. Have much more experience with TSQL so it's a tour of minor discoveries so far :)
+
+### Day 2: January 30th, 2019
+Spent some time on setting up Git Desktop, looks nice. First time I'm doing a larger project on macOS so still getting used to the in ins/outs. Also did some troubleshooting on the Django/MySQL connector, didnt work out of the box with mysqlclient.
